@@ -1,0 +1,56 @@
+USAGE:
+
+python script.py text
+python script.py voice
+
+
+Functions:
+
+Hello
+
+HOW ARE YOU?
+
+Say with me * / Repeat *
+
+WHO ARE YOU
+?
+WHO CREATED YOU?
+
+WHAT ARE YOU?
+
+WHO IS OJASWY AKELLA?
+
+WHO IS YOUR MOTHER
+
+WHO IS YOUR FATHER
+
+WHICH IS BETTER MARVEL OR DC?
+
+WHICH IS BETTER FCB OR RMA
+?
+WHAT TIME IS IT
+?
+What/Who/Which/How * (Anything)
+
+System Status
+
+Play a song -> It will ask for the name, then <name the song> 
+
+Play Music/Pause/Play Music/Next Song/Previous Song
+
+Open Fb/GOOGLE/YOUTUBE/GOOGLE MAPS 
+
+GOOGLE *
+
+YOTUBE *
+
+GOOGLE MAPS *
+
+Change Wallpaper
+
+Selfie
+
+
+
+To Exit:
+gotosleep/Bye/exit/quit/shutdown
