@@ -214,7 +214,7 @@
                <li>Right away, sir!</li>
                <li>On it!</li>
             </random>
-            <system> bash -c "python /home/ojaswy/Desktop/Desk/Barney_AI/snap.py"</system>
+            <system> bash -c "python /home/ojaswy/Desktop/all_files/Barney-Stinson/snap.py"</system>
         </template>
         
     </category>
@@ -237,6 +237,40 @@
         <pattern>* SELFIE</pattern>
         <template>
              <srai>SELFIE</srai>
+        </template>
+    </category>
+   
+     <category>
+        <pattern>SCREENSHOT</pattern>
+        <template>
+             <random>
+               <li>Sure thing!</li>
+               <li>Right away, sir!</li>
+               <li>On it!</li>
+            </random>
+            <system> bash -c "python /home/ojaswy/Desktop/all_files/Barney-Stinson/screenshot.py"</system>
+        </template>
+        
+    </category>
+
+    <category>
+        <pattern>* SCREENSHOT *</pattern>
+        <template>
+             <srai>SCREENSHOT</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>SCREENSHOT *</pattern>
+        <template>
+             <srai>SCREENSHOT</srai>
+        </template>
+    </category>
+
+     <category>
+        <pattern>* SCREENSHOT</pattern>
+        <template>
+             <srai>SCREENSHOT</srai>
         </template>
     </category>
 
