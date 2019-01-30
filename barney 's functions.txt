@@ -1,10 +1,10 @@
-USAGE:
+## USAGE:
 
 python script.py text
 python script.py voice
 
 
-Functions:
+## Functions:
 
 Hello
 
@@ -12,21 +12,11 @@ HOW ARE YOU?
 
 Say with me * / Repeat *
 
-WHO ARE YOU?
+Change Wallpaper
 
-WHO CREATED YOU?
+For Selfie(using webcam) - selfie
 
-WHAT ARE YOU?
-
-WHO IS OJASWY AKELLA?
-
-WHO IS YOUR MOTHER?
-
-WHO IS YOUR FATHER?
-
-WHICH IS BETTER MARVEL OR DC?
-
-WHICH IS BETTER FCB OR RMA?
+For Screenshot - screenshot
 
 WHAT TIME IS IT?
 
@@ -46,9 +36,26 @@ YOTUBE *
 
 GOOGLE MAPS *
 
-Change Wallpaper
+## Other Features:
 
-Selfie
+WHO ARE YOU?
+
+WHO CREATED YOU?
+
+WHAT ARE YOU?
+
+WHO IS OJASWY AKELLA?
+
+WHO IS YOUR MOTHER?
+
+WHO IS YOUR FATHER?
+
+WHICH IS BETTER MARVEL OR DC?
+
+WHICH IS BETTER FCB OR RMA?
+
+
+
 
 PS: Question Mark not necessary while asking the bot.
 
