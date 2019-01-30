@@ -1,0 +1,4 @@
+1. To use the Selfie(snap.py) and Screenshot(screenshot.py) features on your Desktop, Go to launch.aiml file and change the        address/location respectively.
+
+2. Requirements:
+   Screenshot: sudo apt-get install python-gtk2
