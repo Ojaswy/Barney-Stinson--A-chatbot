@@ -9,5 +9,5 @@ return_value, image = camera.read()
 cv2.imwrite("click.png", image)
 img = Image.open('click.png')
 img.show()
-del(camera)  # so that others can use the camera as soon as possible
+del(camera)  
 
