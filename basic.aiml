@@ -15,6 +15,13 @@
         </template>
     </category>
     
+     <category>
+        <pattern>HEY</pattern>
+        <template>
+            Hello, sir!
+        </template>
+    </category>
+    
     <category>
         <pattern>Barney</pattern>
         <template>
