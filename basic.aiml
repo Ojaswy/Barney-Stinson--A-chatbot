@@ -6,7 +6,7 @@
         <template>
             Well, hello Sir, Hope you are having a good day!
         </template>
-    </category>
+    </category> 
 
      <category>
         <pattern>HELLO *</pattern>
