@@ -1,5 +1,5 @@
 import gtk.gdk
-
+ 
 w = gtk.gdk.get_default_root_window()
 sz = w.get_size()
 print "The size of the window is %d x %d" % sz
