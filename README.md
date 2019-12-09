@@ -35,6 +35,8 @@ Play Music/Pause/Play Music/Next Song/Previous Song
 
 Open Fb/GOOGLE/YOUTUBE/GOOGLE MAPS 
 
+Set Volume to * - Changes Volume
+
 GOOGLE *
 
 YOTUBE * 
