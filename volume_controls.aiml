@@ -3,7 +3,7 @@
  <!-- VOLUME CONTROLS -->
 
 	 <category>
-        <pattern>INCREASE VOLUME</pattern>
+        <pattern>INCREASE VOLUME</pattern>  
          <template>
             <system>python volume.py i 10</system>
         </template>
