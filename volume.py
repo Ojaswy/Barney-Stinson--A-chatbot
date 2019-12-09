@@ -8,7 +8,7 @@ def getVolume():
 	global vol
 	return vol[0]
 
-def increase(n):
+def increase(n):  
 	global vol
 	if (vol[0] + n)>100:
 		vol[0]= 100 - n
