@@ -4,7 +4,7 @@ Completely functionable and customisable.
  
 ## USAGE:
 
-python script.py text
+python script.py text 
 
 python script.py voice
 
